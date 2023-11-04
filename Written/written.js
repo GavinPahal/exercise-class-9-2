@@ -30,8 +30,20 @@ console.log(totalCats);
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> Given
 /**
  * Question 6 - create a 2 dimensions array that is 2-by-4. Grab some values out of this array to create a sentence using concatenation.
  * 
  *  
  */
+<<<<<<< HEAD
+=======
+'git add!
+'git add!
+'git add!
+'git add!
+>>>>>>> Given
